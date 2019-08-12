@@ -31,6 +31,9 @@
 [submodule "mods/melterns"]
 	path = mods/melterns
 	url = https://gitlab.icynet.eu/evert/melterns.git
+[submodule "mods/minetest_game"]
+	path = mods/minetest_game
+	url = https://github.com/minetest/minetest_game
 [submodule "mods/moreblocks"]
 	path = mods/moreblocks
 	url = https://github.com/minetest-mods/moreblocks
